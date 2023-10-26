@@ -1,0 +1,23 @@
+{
+  "name": "teste-qa-pl-sr",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/KarineJappe/teste-qa-pl-sr.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/KarineJappe/teste-qa-pl-sr/issues"
+  },
+  "homepage": "https://github.com/KarineJappe/teste-qa-pl-sr#readme",
+  "devDependencies": {
+    "cypress": "^13.3.3",
+    "faker-br": "^0.4.1"
+  }
+}
